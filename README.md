@@ -6,18 +6,21 @@
 
 ## About Me 🚀
 	
-I'm an AI and Machine Learning Engineer specializing in computer vision and embedded AI solutions. With a strong foundation in developing real-time object detection systems and autonomous navigation solutions, I focus on creating efficient and scalable AI applications.
+I'm an AI and Machine Learning Engineer specializing in computer vision and embedded AI solutions. With a strong foundation in developing real-time object detection systems and autonomous navigation solutions, I focus on creating efficient and scalable AI applications that aim to benefit humanity.
 	
 ### 🔭 Current Focus
+- Utilize AI for finding new medicines
 - Developing embedded AI solutions for autonomous systems
 - Implementing real-time computer vision applications
-- Working on gene expression prediction using machine learning
+- Working on gene expression prediction using deep learning, RNA data and microscopic imaging
 	
 ### 💡 Expertise
 - **Computer Vision:** Real-time object detection, face detection, image processing
 - **Deep Learning:** TensorRT, CUDA, ONNX optimization
 - **Embedded AI:** Drone navigation, SLAM implementation
-- **Machine Learning:** Gene expression prediction, biological data analysis
+- **Machine Learning:** Gene expression prediction, biological data analysis, PyTorch, TensorFlow, CNNs
+- **Data Science:** Data gathering, organization, database creation and management
+- **Programming Languages:** Python, R, SQL, SAS, C++
  	
 ## 🛠️ Technologies & Tools
  	
